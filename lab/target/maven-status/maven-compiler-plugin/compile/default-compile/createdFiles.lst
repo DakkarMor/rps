@@ -1,0 +1,9 @@
+org\example\lab_rps\model\Film.class
+org\example\lab_rps\service\FilmServiceImpl.class
+org\example\lab_rps\config\AppInitializer.class
+org\example\Main.class
+org\example\lab_rps\DAO\FilmDAO.class
+org\example\lab_rps\config\WebConfig.class
+org\example\lab_rps\service\FilmService.class
+org\example\lab_rps\controller\FilmController.class
+org\example\lab_rps\DAO\FilmDAOImpl.class
